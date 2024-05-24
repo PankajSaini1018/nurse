@@ -1,0 +1,323 @@
+* {
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav-bar {
+    width: 100%;
+}
+.row {
+    margin: 0%;
+}
+.brand-logo {
+    width: 283px;
+    height: 56px;
+}
+#nav-text {
+    color: #17608B;
+}
+.nav-item {
+    width: 110px;
+    color: #17608B;
+}
+.nav-item1 {
+    width: 140px;
+    color: #17608B;
+}
+
+.nav-item2 {
+    width: 120px;
+    color: #17608B;
+}
+
+.img1 {
+    width: 142px;
+    height: 50.12px;
+    position: absolute;
+    left: 24px;
+    top: 15px;
+
+}
+
+.d-flex {
+    margin-left: 0px;
+    gap: 47px;
+
+}
+
+#Contact-btn {
+    width: 164px;
+    border-radius: 0px;
+    border: 0px;
+    background-color: #F26530;
+    color: white;
+
+}
+
+#login-btn {
+    border-color: #F26530;
+    color: #17608B;
+}
+
+#nurse-section {
+    display: flex;
+    margin-bottom: 86px;
+}
+
+.container {
+    padding: 0%;
+}
+
+#nurse-text {
+    width: 50%;
+    font-size: 35px;
+    padding: 0px;
+    color: #1F1E58;
+    font-weight: 500;
+    margin: 0px;
+    margin-top: 49px;
+    margin-bottom: 70px;
+}
+
+#nurse-text2 {
+    width: 50%;
+    font-size: 28px;
+    padding: 0px;
+    color: #1F1E58;
+    font-weight: 500;
+    margin: 0px;
+    margin-top: 49px;
+    margin-bottom: 70px;
+}
+
+#nurse-img {
+    /* width: 50%; */
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+#all-text {
+    width: 365px;
+}
+
+.Home {
+    color: #F26530;
+}
+
+.care {
+
+    color: #F26530;
+    /* position: absolute;
+    left: 0px; */
+}
+
+#paragraph-text {
+    width: 100%;
+    font-size: 16px;
+    margin-top: 50px;
+    color: #000;
+}
+
+#btn-group {
+    background-color: #F26530;
+    color: white;
+    border-radius: 0px;
+
+}
+
+#all-text2 {
+    width: 352px;
+    margin-left: 21px;
+}
+
+#wwd {
+    text-align: center;
+    height: 314px;
+    padding: 0px;
+    background: rgba(242, 101, 48, 0.25);
+    ;
+}
+
+.wwd {
+    color: rgba(242, 101, 48, 1);
+    height: 118px;
+    /* width: 100%; */
+    /* border: 1px solid rgba(242, 101, 48, 1)S */
+}
+
+.our-paragraph {
+    width: 100%;
+}
+
+.card-body {
+    display: flex;
+}
+
+.card-text {
+    margin: 0%;
+    font-size: 15px;
+    width: 106px;
+    margin-top: 8px;
+}
+
+#card-text2 {
+    width: 195px;
+}
+
+.card-icon {
+    margin: 0%;
+    margin-top: 8px;
+}
+
+#card-container {
+    background-color: rgba(242, 101, 48, 0.1);
+    height: auto;
+    
+
+}
+
+#other-card {
+    margin-top: 29px;
+}
+
+.card-body {
+    gap: 14px;
+}
+
+.card {
+    width: 200px;
+    border: 0px;
+    border-radius: 0px;
+}
+
+#card2 {
+    margin: 0px;
+    /* margin-bottom: 1px; */
+    margin-top: 29px;
+    height: 93px;
+    /* background-color: blue; */
+    color: white;
+    background: rgba(10, 137, 166, 1);
+}
+
+.card2 {
+    margin: 0px;
+    width: 100%;
+    margin: 0px;
+    width: 74%;
+    height: 67px;
+    padding: 15px;
+    padding-top: 20px;
+    padding-left: 0px;
+    margin-left: 45px;
+
+}
+
+.maid {
+    box-sizing: border-box;
+    text-align: center;
+    height: 67px;
+    margin-top: 22px;
+    display: flex;
+
+}
+
+.text-box {
+    margin: 25px;
+    font-size: 21px;
+    width: 100%;
+    display: flex;
+    /*width: 190px; */
+}
+
+.taget-text {
+    width: 100%;
+    text-align: center;
+    margin-top: 108px;
+    height: 113px;
+    /* background-image: url(./Target.png); */
+    /* background: rgba(31, 30, 88, 1); */
+
+}
+
+.tar {
+    width: 356px;
+    text-decoration: underline 1px;
+    color: rgba(31, 30, 88, 1);
+    font-size: 29px;
+}
+
+.we {
+    font-size: 22px;
+    color: rgba(242, 101, 48, 1);
+
+}
+
+.card-ot {
+    height: auto;
+    margin-bottom: 32px;
+}
+
+#img-ot {
+    margin-bottom: 2px;
+}
+
+.card-body-ot {
+    height: 80px;
+    padding: 25px;
+    background: rgba(3, 137, 166, 0.81);
+    color: white;
+    border-radius: 0px 0px 0px 40px;
+}
+
+#oh {
+    height: auto;
+    display: flex;
+   
+}
+.pic-text{
+    display: flex;
+}
+#text-icon{
+    text-align: center;
+    width: 20%
+}
+.social-icons{
+    list-style: none;
+    display: flex;
+    padding: 0px;
+    /* width: 148px; */
+}
+#footer-container{
+    margin-top: 100px;
+}
+#footer-row{
+    background: rgba(105, 196, 217, 0.1);
+}
+.contact-icon-text{
+    display: flex;
+    gap: 23px;
+}
+#fc{
+    display: flex;
+    width: 93%;
+    margin: 0px;
+    width: 100%;
+}
+.footer-ul{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: rgba(3, 137, 166, 1);
+
+}
+
+#other{
+    width: 50%;
+}
+.h2{
+    padding-left: 23px;
+}

@@ -1,0 +1,105 @@
+*{
+    margin: auto;
+    padding: 0%;
+}
+
+* {
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    width: 100%;
+}
+.row {
+    margin: 0%;
+}
+
+.brand-logo {
+    width: 299px;
+    height: 56px;
+}
+
+#nav-text {
+    color: #17608B;
+}
+
+.nav-item {
+    width: 110px;
+    color: #17608B;
+}
+
+.nav-item1 {
+    width: 140px;
+    color: #17608B;
+}
+
+.nav-item2 {
+    width: 120px;
+    color: #17608B;
+}
+
+.img1 {
+    width: 142px;
+    height: 50.12px;
+    position: absolute;
+    left: 111px;
+    top: 15px;
+
+}
+
+.d-flex {
+    margin-left: 0px;
+    gap: 47px;
+
+}
+
+#Contact-btn {
+    width: 164px;
+    border-radius: 0px;
+    border: 0px;
+    background-color: #F26530;
+    color: white;
+
+}
+
+#login-btn {
+    border-color: #F26530;
+    color: #17608B;
+}
+
+.contact{
+   
+    height: auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-bottom-left-radius: 113px;
+    background-color:   #0389A6;
+}
+.contact2{
+    text-align: center;
+    margin-top: 30px;
+    color:  #17608B;
+    font-size: 30px;
+}
+
+.card1{
+    display: flex;
+    height: 100px;
+}
+.cardd{
+    margin-right: 10px;
+    width: 20%;
+}
+.form-group{
+    margin: 15px;
+}
+
+.all{
+    margin-top: 70px;
+    height: 50px;
+    text-align: center;
+    padding-top: 18px;
+}

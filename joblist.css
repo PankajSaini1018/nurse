@@ -1,0 +1,105 @@
+*{
+    margin: auto;
+    padding: 0%;
+}
+
+* {
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    width: 100%;
+}
+.row {
+    margin: 0%;
+}
+
+.brand-logo {
+    width: 299px;
+    height: 56px;
+}
+
+#nav-text {
+    color: #17608B;
+}
+
+.nav-item {
+    width: 110px;
+    color: #17608B;
+}
+
+.nav-item1 {
+    width: 140px;
+    color: #17608B;
+}
+
+.nav-item2 {
+    width: 120px;
+    color: #17608B;
+}
+
+.img1 {
+    width: 142px;
+    height: 50.12px;
+    position: absolute;
+    left: 111px;
+    top: 15px;
+
+}
+
+.d-flex {
+    margin-left: 0px;
+    gap: 47px;
+
+}
+
+#Contact-btn {
+    width: 164px;
+    border-radius: 0px;
+    border: 0px;
+    background-color: #F26530;
+    color: white;
+
+}
+
+#login-btn {
+    border-color: #F26530;
+    color: #17608B;
+}
+
+.body{
+    max-width: 100%;
+}
+.joblist{
+    position: absolute;
+    top: 209px;
+    left: 630px;
+    font-size: 41px;
+    color: white;
+}
+.card-body{
+    display: flex;
+   margin: 0%;
+   box-shadow: 0px 10px 40px 0px #0389A629;
+}
+.card-text{
+    margin: 0%;
+    width: 80%;
+    font-size: 19px;
+    margin-left: 22px;
+}
+.joblistimg{
+      width: 20%; 
+      height: 40%;
+       margin-top: 30px;
+       background-color: orangered;
+}
+.card{
+    margin: 20px;
+    border: 0px;
+}
+#cardd{
+    border: 0px;
+}

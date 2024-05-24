@@ -1,0 +1,244 @@
+* {
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav-bar {
+    width: 100%;
+}
+.row {
+    margin: 0%;
+}
+.brand-logo {
+    width: 283px;
+    height: 56px;
+}
+#nav-text {
+    color: #17608B;
+}
+.nav-item {
+    width: 110px;
+    color: #17608B;
+}
+.nav-item1 {
+    width: 140px;
+    color: #17608B;
+}
+
+.nav-item2 {
+    width: 120px;
+    color: #17608B;
+}
+
+.img1 {
+    width: 142px;
+    height: 50.12px;
+    position: absolute;
+    left: 24px;
+    top: 15px;
+
+}
+
+.d-flex {
+    margin-left: 0px;
+    gap: 47px;
+
+}
+
+#Contact-btn {
+    width: 164px;
+    border-radius: 0px;
+    border: 0px;
+    background-color: #F26530;
+    color: white;
+
+}
+
+#login-btn {
+    border-color: #F26530;
+    color: #17608B;
+}
+
+
+#nurse-section {
+    display: flex;
+    margin-bottom: 86px;
+}
+
+.container {
+    padding: 0%;
+}
+
+#nurse-text {
+    width: 50%;
+    font-size: 35px;
+    padding: 0px;
+    color: #1F1E58;
+    font-weight: 500;
+    margin: 0px;
+    margin-top: 49px;
+    margin-bottom: 70px;
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+#all-text {
+    width: 365px;
+}
+
+.Home {
+    color: #F26530;
+}
+
+.care {
+
+    color: #F26530;
+    /* position: absolute;
+    left: 0px; */
+}
+
+#paragraph-text {
+    width: 100%;
+    font-size: 16px;
+    margin-top: 50px;
+    color: #000;
+}
+
+#btn-group {
+    background-color: #F26530;
+    color: white;
+    border-radius: 0px;
+
+}
+
+
+.card-ot{
+    margin: 15px;
+    
+    background-image: url(./nurse\ experience\ bg.png);
+    height: 90px;
+    width: 80%;
+}
+.About1{
+    margin-top: 50px;
+}
+.about02{
+   font-size: 60px;
+   color: #1F1E58;
+}
+.about03{
+    color: #0389A6;
+    font-size: 25px;
+}
+.nurse{
+    color: white;
+    background: #F26530;
+    border: 0px;
+    border-radius: 20px;
+}
+.para{
+    font-size: 23px;
+}
+.aboutrow{
+   
+    box-shadow: 0px 10px 30px 0px #0389A633;
+    padding: 65px;
+}
+.aboutcon{
+    margin: 30px;
+}
+.card-title{
+    font-size: 15px;
+   
+}
+.aboutimg{
+    width: 100%;
+    TEXT-ALIGN: end;
+    
+}
+.aboutimg01{
+    width: 60%;
+   
+    margin: 15px 0px 15px 15px;  
+}
+.abouth2{
+    color: #1F1E58;
+    font-size: 39px;
+
+}
+.aboutpara{
+    color: #0389A6;
+    font-size: 20px;
+}
+.aboutro{
+    background: #69C4D96E;
+
+}
+.aboutrow2{
+    background: #F265301A;
+
+}
+.aboutheading{
+    color: #1F1E58;
+    font-size: 50px;
+    padding: 50px 0px 0px 30px;
+
+}
+.para2{
+    color: #0389A6;
+    font-size: 22px;
+    padding-left: 25px;
+}
+.aboutcard{
+    width: 100%;
+    text-align: center;
+    display: flex;
+}
+.aboutcard01{
+    margin: 15px;
+    width: 30%;
+
+
+}
+.cardbody{
+
+    background: #F265301A;
+    border: 0px;
+    color: #0389A6;
+    font-size: 12px;
+box-shadow: 0px 2px 2px 0px  #F26530  ;
+}
+.cardrow{
+    box-shadow: 0px 10px 30px 0px #0389A633;
+    margin-top: 50px;
+    display: flex;
+}
+.cardh2{
+    text-align: center;
+    font-size: 37px;
+    padding-top: 51px;
+    color: #1F1E58;
+}
+.say{
+    color: #F26530;
+}
+.paracard{
+    text-align: center;
+    font-size: 20px;
+    color: #0389A6;
+}
+#imgcard{
+    background: #0389A6;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+.carddd{
+    display: flex;
+ 
+}
+.imggcard{
+   width: 40%
+}
